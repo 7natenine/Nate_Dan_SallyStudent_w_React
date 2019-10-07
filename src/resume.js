@@ -1,4 +1,5 @@
 import React from 'react';
+import './resume.css';
 
 export default function Resume() {
   return (
@@ -41,7 +42,7 @@ export default function Resume() {
           </h2>
         </header>
 
-        <p class="role">Apple - Software Engineer </p>
+        <p className="role">Apple - Software Engineer </p>
 
         <ul>
           <li>September 2016 - April 2018 </li>
@@ -54,7 +55,7 @@ export default function Resume() {
             </i>
           </li>
         </ul>
-        <p class="role">Amazon - Software Engineer </p>
+        <p className="role">Amazon - Software Engineer </p>
         <ul>
           <li>June 2018 - Present</li>
           <li>

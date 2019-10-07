@@ -1,0 +1,51 @@
+
+
+body { 
+  background-color: white(177, 90%, 41%, 0.342); border: 5px solid rgb(69, 179, 160);
+  padding: 30px;
+}
+
+nav {
+  background-color: black;
+  margin-bottom: 20;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+    display: block inline;
+    color: white;
+    padding: .5px 20px; 
+    text-align: center;
+    text-decoration: none; 
+  }
+
+nav li a:hover {
+  background-color: rgb(69, 179, 160);
+
+}
+
+h2 {
+  width: 100%; 
+  text-align: center;
+  color: rgb(69, 179, 160);
+  border-bottom: 1px solid rgb(69, 179, 160);
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+
+h2 span{
+  background: #fff;
+  padding:0 10px;
+}
+
+li,p{
+  font-size: 14px;
+}
+
+.role {
+  font-size: 16px;
+  font-weight: 540;
+}
